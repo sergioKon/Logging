@@ -1,5 +1,5 @@
 import java.util.logging.Logger;
-
+//
 public class FinalStatement {
     Logger logger= Logger.getLogger(FinalStatement.class.getName());
 	  public void doIt() {
